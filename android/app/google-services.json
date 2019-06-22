@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "770561788104",
+    "firebase_url": "https://vpnlab-260cb.firebaseio.com",
+    "project_id": "vpnlab-260cb",
+    "storage_bucket": "vpnlab-260cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770561788104:android:7c31981f89ae9318",
+        "android_client_info": {
+          "package_name": "com.avallonmobile.freevpn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770561788104-v02b8tp2pjinbfi9qfa29gsb7ii74r4k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGlRqIzGI-zgTFgukXu7svZZ_Z6tdolF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770561788104-v02b8tp2pjinbfi9qfa29gsb7ii74r4k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
