@@ -5,7 +5,7 @@
 ![Image of VPNLAB3](https://i.gyazo.com/de9a14ad97922f07c54eda7cb11a4a88.png)
 
 ## Download
-You can download latest build apk in build\app\outputs\apk\debug 
+You can download latest build apk in /apks
 
 ## Features 
   - The Android part was implemented by strongswan which support ikev2 protocol.
